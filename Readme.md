@@ -1,6 +1,6 @@
 To copy repository onto computer:
 Open terminal
-"Git clone [copy of url]+[enter]" 
+"Git clone [copy of url][enter]" 
 
 To continue and open the terminal/make readme file:
 "cd clone [enter]"
